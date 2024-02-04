@@ -31,8 +31,8 @@ function find15(count){
 
     return find;
 }
-const search = find15(numbers);
-console.log(search)
+// const search = find15(numbers);
+// console.log(search)
 
 // Task - 3
 
@@ -74,3 +74,7 @@ function randomNumber (min, max){
 }
 const num = randomNumber(10, 20)
 console.log(num)
+
+console.log(Math.pow(2,3))
+if(typeof parameter === undefined)
+
